@@ -1,0 +1,7 @@
+name: gochi-requestid
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - go=1.23
+  - pip
